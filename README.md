@@ -148,25 +148,20 @@ Then Add Email, Username and Password
 
 **or Use Default Credentials**
 
-_For HOD /SuperAdmin_
-Email: admin@gmail.com
-Password: admin
+⚠️ For security reasons, default credentials are not included.
+Please create users using:
+python manage.py createsuperuser
 
-_For Staff_
-Email: staff@gmail.com
-Password: staff
-
-_For Student_
-Email: student@gmail.com
-Password: student
 
 ## Copyrights
 
-Coded by @ritikBanger, @mohitTaimni, and @ronitKhowal
+## 👩‍💻 Author
 
-Developed for Poornima Group, Jaipur
+**Pavitra Mudaraddi**  
+GitHub: https://github.com/pavitra2016  
 
-Copyright 2022 @ritikbanger
+This project is customized, configured, and maintained for learning and educational purposes.
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
